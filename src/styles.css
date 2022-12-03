@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 4rem auto;
+  max-width: 600px;
+  background-color: #e5e7eb;
+}
+button {
+  margin: 1rem 0.5rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: 1px solid black;
+  background: #efefef;
+}
+li {
+  padding-left: 0.5rem;
+  list-style: none;
+}
+ul {
+  width: 60%;
+  padding-left: 0rem;
+  padding: 1rem 0rem;
+  border: 1px solid rgb(188, 205, 221);
+  border-radius: 0.5rem;
+}
+div {
+  padding-bottom: 0.2rem;
+}
